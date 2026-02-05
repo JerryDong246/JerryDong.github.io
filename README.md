@@ -1,4 +1,4 @@
-# Jerry Dong — M&T Portfolio (Light Theme)
+# Jerry Dong — Portfolio (Light Theme)
 
 Static site (HTML/CSS) optimized for a UPenn M&T application.
 All copy is English-only.
