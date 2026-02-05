@@ -1,11 +1,11 @@
 # Jerry Dong — Portfolio (Light Theme)
 
-Static site (HTML/CSS) optimized for a UPenn M&T application.
+Static site (HTML/CSS) optimized.
 All copy is English-only.
 
 ## Files
 - index.html — Home (one-line pitch + highlights)
-- about.html — About + publication + M&T positioning
+- about.html — About + publication + positioning
 - projects.html — Evidence-first project writeups
 - life.html — Life page (engineering + entrepreneurship narrative)
 - style.css — Light theme
