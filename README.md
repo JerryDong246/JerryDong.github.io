@@ -1,4 +1,4 @@
-# Jerry Dong — Portfolio (Light Theme)
+# Jerry Dong — Portfolio
 
 Static site (HTML/CSS) optimized.
 All copy is English-only.
