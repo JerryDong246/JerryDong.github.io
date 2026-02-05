@@ -7,7 +7,7 @@ All copy is English-only.
 - index.html — Home (one-line pitch + highlights)
 - about.html — About + publication + M&T positioning
 - projects.html — Evidence-first project writeups
-- life.html — M&T Fit page (engineering + entrepreneurship narrative)
+- life.html — Life page (engineering + entrepreneurship narrative)
 - style.css — Light theme
 
 ## Run locally
